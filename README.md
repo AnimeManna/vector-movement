@@ -2,7 +2,7 @@
 
 Hello! I am **AnimeManna**. It's nice to see you on my page!
 
-This is a small C++ project that uses **Raylib** to render and animate objects. It demonstrates how a ball moves toward a point clicked by the user.
+This is a small C++ project that uses native C++ for calculate position and operations with vectors and using **Raylib** to render, handle click event and animate objects. It demonstrates how a ball moves toward a point clicked by the user.
 
 ---
 
