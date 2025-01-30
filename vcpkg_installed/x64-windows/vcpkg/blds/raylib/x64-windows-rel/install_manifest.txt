@@ -1,0 +1,8 @@
+C:/Users/maxun/source/repos/MovementVectorApp/vcpkg_installed/x64-windows/vcpkg/pkgs/raylib_x64-windows/lib/raylib.lib
+C:/Users/maxun/source/repos/MovementVectorApp/vcpkg_installed/x64-windows/vcpkg/pkgs/raylib_x64-windows/bin/raylib.dll
+C:/Users/maxun/source/repos/MovementVectorApp/vcpkg_installed/x64-windows/vcpkg/pkgs/raylib_x64-windows/include/raylib.h
+C:/Users/maxun/source/repos/MovementVectorApp/vcpkg_installed/x64-windows/vcpkg/pkgs/raylib_x64-windows/include/rlgl.h
+C:/Users/maxun/source/repos/MovementVectorApp/vcpkg_installed/x64-windows/vcpkg/pkgs/raylib_x64-windows/include/raymath.h
+C:/Users/maxun/source/repos/MovementVectorApp/vcpkg_installed/x64-windows/vcpkg/pkgs/raylib_x64-windows/lib/pkgconfig/raylib.pc
+C:/Users/maxun/source/repos/MovementVectorApp/vcpkg_installed/x64-windows/vcpkg/pkgs/raylib_x64-windows/lib/cmake/raylib/raylib-config-version.cmake
+C:/Users/maxun/source/repos/MovementVectorApp/vcpkg_installed/x64-windows/vcpkg/pkgs/raylib_x64-windows/lib/cmake/raylib/raylib-config.cmake
